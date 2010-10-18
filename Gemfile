@@ -1,6 +1,6 @@
 source :gemcutter
 
-gem 'oauth', '>= 0.4.0'
+gem 'oauth', '>= 0.3.5'
 gem 'nokogiri'
 gem 'crack', '>= 0.1.4'
 
